@@ -5,7 +5,7 @@ import streamlit as st
 import pyperclip
 import openai
 import datetime
-from collections.abc import Iterable
+from typing import Iterable
 
 
 # .envファイルから環境変数を読み込む
