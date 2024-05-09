@@ -1,4 +1,3 @@
-from typing import Iterable
 
 import os
 from dotenv import load_dotenv
