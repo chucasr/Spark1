@@ -5,7 +5,8 @@ import streamlit as st
 import pyperclip
 import openai
 import datetime
-from typing import Iterable
+from collections.abc import Iterable
+
 
 
 
