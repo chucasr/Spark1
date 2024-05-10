@@ -5,12 +5,7 @@ import streamlit as st
 import pyperclip
 import openai
 import datetime
-import collections.abc
-#hyper needs the four following aliases to be done manually.
-collections.Iterable = collections.abc.Iterable
-
-#Now import hyper
-import hyper
+from collections.abc import Iterable
 
 
 
